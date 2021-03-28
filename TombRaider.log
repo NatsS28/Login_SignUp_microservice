@@ -1,0 +1,104 @@
+17:34:44:020 (18568) > --- NIXXES log start ---
+17:34:44:021 (18568) > 
+17:34:44:021 (18568) > Memory statistics:
+17:34:44:023 (18568) >   Total RAM = 7.8 GB (8029 MB)
+17:34:44:023 (18568) >   Avail RAM = 3.1 GB (3224 MB)
+17:34:44:024 (18568) >   Total virtual memory = 4.0 GB (4095 MB)
+17:34:44:024 (18568) >   Avail virtual memory = 3.4 GB (3461 MB)
+17:34:44:025 (18568) > OS = Windows Vista (build 9200)
+17:34:44:025 (18568) > Starting Tomb Raider v1.00.716.5
+17:34:44:050 (18568) > [Main] Current directory: C:\nADRAJ\Tomb Raider
+17:34:44:056 (18568) > Mounted TITLE.000
+17:34:44:068 (18568) > Mounted PATCH.000
+17:34:45:713 (18568) > [Render] PCDeviceManager constructor start
+17:34:45:823 (18568) > [Render] PCDeviceManager constructor end
+17:34:47:431 (18568) > [Render] PCDX11DeviceManager constructor start
+17:34:47:432 (18568) > D3D Adapter Information:
+17:34:47:432 (18568) > Adapter Description: NVIDIA GeForce GTX 1650
+17:34:47:432 (18568) > VendorID: 10de
+17:34:47:433 (18568) > DeviceID: 1f99
+17:34:47:433 (18568) > Revision: a1
+17:34:47:433 (18568) > Attemping to load NVAPI...
+17:34:47:433 (18568) > NVAPI loaded succesfully.
+17:34:47:465 (18568) > Reducing mouse lag by setting frame latency to 1...
+17:34:47:465 (18568) > D3D reports feature level 11 is supported.
+17:34:47:467 (18568) > NVAPI Depth Bounds Test supported.
+17:34:47:478 (18568) > D3D Adapter Information:
+17:34:47:478 (18568) > Adapter Description: Intel(R) UHD Graphics 630
+17:34:47:478 (18568) > VendorID: 8086
+17:34:47:478 (18568) > DeviceID: 3e9b
+17:34:47:478 (18568) > Revision: 2
+17:34:47:478 (18568) > NVAPI loaded succesfully.
+17:34:47:868 (18568) > Reducing mouse lag by setting frame latency to 1...
+17:34:47:868 (18568) > D3D reports feature level 11 is supported.
+17:34:47:868 (18568) > D3D reports hardware multiple command list support.
+17:34:47:883 (18568) > D3D Adapter Information:
+17:34:47:883 (18568) > Adapter Description: Microsoft Basic Render Driver
+17:34:47:883 (18568) > VendorID: 1414
+17:34:47:883 (18568) > DeviceID: 8c
+17:34:47:883 (18568) > Revision: 0
+17:34:47:883 (18568) > NVAPI loaded succesfully.
+17:34:47:902 (18568) > Reducing mouse lag by setting frame latency to 1...
+17:34:47:903 (18568) > D3D reports feature level 11 is supported.
+17:34:47:903 (18568) > D3D reports hardware multiple command list support.
+17:34:47:906 (18568) > [Render] PCDX11DeviceManager constructor end
+17:34:53:891 (18568) > D3D Adapter Information:
+17:34:53:892 (18568) > Adapter Description: NVIDIA GeForce GTX 1650
+17:34:53:892 (18568) > VendorID: 10de
+17:34:53:892 (18568) > DeviceID: 1f99
+17:34:53:892 (18568) > Revision: a1
+17:34:53:893 (18568) > Attemping to load NVAPI...
+17:34:53:893 (18568) > NVAPI loaded succesfully.
+17:34:54:427 (18568) > Reducing mouse lag by setting frame latency to 1...
+17:34:54:428 (18568) > D3D reports feature level 11 is supported.
+17:34:54:437 (18568) > NVAPI Depth Bounds Test supported.
+17:34:54:648 (18568) > [Render] Using DirectX 11
+17:34:54:911 (18568) > Initalizing audio...
+17:34:54:964 (18568) > Audio device found. FMOD reports 1 driver(s).
+17:34:54:965 (18568) > Audio Driver Name: Speakers (Realtek(R) Audio)
+17:34:54:965 (18568) > Speaker Mode: 2
+17:34:57:748 (18568) > [DLC] mounted pack 1 - 0x00000001 (steam id=208790)
+17:34:57:749 (18568) > [DLC] mounted pack 1 - 0x00000002 (steam id=208791)
+17:34:57:749 (18568) > [DLC] mounted pack 1 - 0x00000004 (steam id=208792)
+17:34:57:750 (18568) > [DLC] mounted pack 1 - 0x00000008 (steam id=208793)
+17:34:57:750 (18568) > [DLC] mounted pack 1 - 0x00000010 (steam id=208794)
+17:34:57:751 (18568) > [DLC] mounted pack 1 - 0x00010000 (steam id=208795)
+17:34:57:751 (18568) > [DLC] mounted pack 1 - 0x00020000 (steam id=208796)
+17:34:57:752 (18568) > [DLC] mounted pack 1 - 0x00040000 (steam id=208797)
+17:34:57:752 (18568) > [DLC] mounted pack 1 - 0x00100000 (steam id=208798)
+17:34:57:753 (18568) > [DLC] mounted pack 1 - 0x00200000 (steam id=208799)
+17:34:57:753 (18568) > [DLC] mounted pack 1 - 0x00400000 (steam id=208800)
+17:34:57:754 (18568) > [DLC] mounted pack 2 - 0x00000400 (steam id=208801)
+17:34:57:755 (18568) > [DLC] mounted pack 2 - 0x00000800 (steam id=208802)
+17:34:57:755 (18568) > [DLC] mounted pack 2 - 0x00001000 (steam id=208803)
+17:34:57:755 (18568) > [DLC] mounted pack 2 - 0x00002000 (steam id=208804)
+17:34:57:756 (18568) > [DLC] mounted pack 2 - 0x00004000 (steam id=208805)
+17:34:57:756 (18568) > [DLC] mounted pack 2 - 0x00100000 (steam id=208806)
+17:34:57:757 (18568) > [DLC] mounted pack 2 - 0x00200000 (steam id=208807)
+17:34:57:757 (18568) > [DLC] mounted pack 2 - 0x00400000 (steam id=208808)
+17:34:57:759 (18568) > [DLC] mounted pack 2 - 0x10000000 (steam id=208815)
+17:34:57:791 (18568) > [DLC] mounted DLC\PACK8.000 (steam id=208812, pack id=8)
+17:34:57:792 (18568) > [DLC] mounted DLC\PACK4.000 (steam id=208810, pack id=4)
+17:35:50:783 (18568) > Player object AddRef laracroft: 1 => 2
+17:35:50:786 (18568) > Player object AddRef laracroft: 2 => 3
+17:35:50:793 (18568) > Player object AddRef laracroft: 3 => 4
+17:45:50:846 (18568) > Player object RemRef laracroft: 4 => 3
+17:45:50:849 (18568) > Player object RemRef laracroft: 3 => 2
+17:45:50:850 (18568) > Player object RemRef laracroft: 2 => 1
+17:45:55:508 (18568) > Player object AddRef laracroft: 1 => 2
+17:45:55:514 (18568) > Player object AddRef laracroft: 2 => 3
+17:45:55:528 (18568) > Player object AddRef laracroft: 3 => 4
+17:46:33:719 (18568) > Player object RemRef laracroft: 4 => 3
+17:46:33:721 (18568) > Player object RemRef laracroft: 3 => 2
+17:46:33:722 (18568) > Player object RemRef laracroft: 2 => 1
+17:46:35:840 (18568) > Player object AddRef laracroft: 1 => 2
+17:46:35:846 (18568) > Player object AddRef laracroft: 2 => 3
+17:46:35:860 (18568) > Player object AddRef laracroft: 3 => 4
+17:47:07:640 (18568) > Player object RemRef laracroft: 4 => 3
+17:48:18:582 (18568) > Player object AddRef laracroft: 3 => 4
+17:50:45:654 (18568) > Player object RemRef laracroft: 4 => 3
+17:50:45:657 (18568) > Player object RemRef laracroft: 3 => 2
+17:50:45:658 (18568) > Player object RemRef laracroft: 2 => 1
+17:50:47:787 (18568) > Player object AddRef laracroft: 1 => 2
+17:50:47:793 (18568) > Player object AddRef laracroft: 2 => 3
+17:50:47:808 (18568) > Player object AddRef laracroft: 3 => 4
